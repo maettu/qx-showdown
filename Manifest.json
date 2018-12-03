@@ -1,7 +1,7 @@
 {
   "info" :
   {
-    "name" : "qxiShowdown",
+    "name" : "qxShowdown",
 
     "summary" : "make the showdown html-md converter js library available as a qx class",
     "description" : "",
